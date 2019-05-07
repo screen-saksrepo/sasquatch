@@ -139,8 +139,17 @@ h1 {
     color: #159957
 }
 
+#whats-new {
+    color: #ff8c00
+}
+
 .main-content p {
     margin-bottom: 1em
+}
+
+.contact {
+    margin-bottom: 1em;
+    font-size: 0.9rem;
 }
 
 .main-content code {
