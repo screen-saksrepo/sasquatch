@@ -1,0 +1,9 @@
+{
+	"build": "1.19.06.01",
+	"date": "Tuesday, June 4th, 2019",
+	"time": "07:45-08:00 AM GMT",
+	"type": "feature release",
+	"headline": "Notification of temporary website shutdown",
+	"message": "On <b>Tuesday, June 4th</b>, Sasquatch would be unavailable between <b>07:45 and 08:00 AM GMT</b> approx., while we release new features.",
+	"longMessage": "Due to new application code, Sasquatch could be temporarily inaccessible on the schedule indicated below. We are very sorry for the inconvenience it may cause, but we sincerely appreciate your understanding." 
+}
